@@ -1,0 +1,20 @@
+\.idea
+\rust/.idea
+\rust/Cargo.lock
+
+# Compilation artifacts
+\rust/target
+\dictionary.o
+\speller
+\speller.o
+\libspellerrs.so
+
+# CS50's stuff
+\dictionaries/
+\keys/
+\texts/
+\dictionary.h
+\speller.c
+\speller50
+
+
